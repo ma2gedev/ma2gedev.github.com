@@ -1,0 +1,10 @@
+- name: Power Assert in Elixir
+  uri: https://github.com/ma2gedev/power_assert_ex
+- name: Faraday::Encoding
+  uri: https://rubygems.org/gems/faraday-encoding
+- name: Bundle-star
+  uri: https://github.com/ma2gedev/bundle-star
+- name: Others at RubyGems
+  uri: https://rubygems.org/profiles/ma2ge
+- name: Others at Hex(Elixir Libraries)
+  uri: https://hex.pm/users/ma2ge

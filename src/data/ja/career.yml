@@ -1,0 +1,46 @@
+- name: エムスリー株式会社
+  works: 
+    - title: チームリーダー ソフトウェアエンジニア
+      main: バックエンドエンジニア, 採用
+      technologies: 
+        - Java
+        - Kotlin
+        - Spring Boot
+        - GraphQL
+      between: 2018/04-
+    - title: チームリーダー ソフトウェアエンジニア
+      main: バックエンドエンジニア
+      technologies: 
+        - Ruby
+        - Rails
+        - Java
+        - Elixir
+        - Phoenix Framework
+      between: 2016/10-2018/03
+    - title: ソフトウェアエンジニア
+      main: バックエンドエンジニア
+      technologies: 
+        - Ruby
+        - Rails
+        - Java
+        - Backbone.js
+        - WebRTC
+      between: 2012/07-2016/09
+- name: 株式会社ACCESS
+  works: 
+    - title: ソフトウェアエンジニア
+      main: Android アプリケーション、バックエンド
+      technologies: 
+        - Android
+        - Java
+        - C
+        - Groovy
+        - Grails
+      between: 2011/03-2012/03
+    - title: ソフトウェアエンジニア
+      main: 組み込みブラウザアプリケーション開発
+      technologies: 
+        - C
+        - RSS
+        - PDF
+      between: 2006/04-2011/02
