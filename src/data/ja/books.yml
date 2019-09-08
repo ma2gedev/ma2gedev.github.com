@@ -1,0 +1,15 @@
+- title: エムスリーテックブック#1
+  author: エムスリーエンジニアリンググループ執筆部 著
+  year: 2019
+  uri: https://techbookfest.org/event/tbf06/circle/46360001
+  work_as: 提案者、著者として
+- title: ERLANG IN ANGER（日本語訳）
+  author: Fred Hébert 著、elixir.jp 訳
+  year: 2016
+  uri: https://github.com/ymotongpoo/erlang-in-anger
+  work_as: 訳者の一人として
+- title: The Little Elixir & OTP Guidebook
+  author: Benjamin Tan Wei Hao 著
+  year: 2016
+  uri: https://www.manning.com/books/the-little-elixir-and-otp-guidebook
+  work_as: レビューアの一人として
