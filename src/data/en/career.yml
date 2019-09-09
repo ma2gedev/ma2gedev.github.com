@@ -1,0 +1,46 @@
+- name: M3, Inc.
+  works: 
+    - title: Team Leader Software Engineer
+      main: Server-side, Hiring
+      technologies: 
+        - Java
+        - Kotlin
+        - Spring Boot
+        - GraphQL
+      between: 2018/04-
+    - title: Team Leader Software Engineer
+      main: Server-side
+      technologies: 
+        - Ruby
+        - Rails
+        - Java
+        - Elixir
+        - Phoenix Framework
+      between: 2016/10-2018/03
+    - title: Software Engineer
+      main: Server-side
+      technologies: 
+        - Ruby
+        - Rails
+        - Java
+        - Backbone.js
+        - WebRTC
+      between: 2012/07-2016/09
+- name: ACCESS CO., LTD.
+  works: 
+    - title: Software Engineer
+      main: Android, Server-side
+      technologies: 
+        - Android
+        - Java
+        - C
+        - Groovy
+        - Grails
+      between: 2011/03-2012/03
+    - title: Software Engineer
+      main: Embedded Browser Application
+      technologies: 
+        - C
+        - RSS
+        - PDF
+      between: 2006/04-2011/02

@@ -4,7 +4,7 @@
   uri: https://rubygems.org/gems/faraday-encoding
 - name: Bundle-star
   uri: https://github.com/ma2gedev/bundle-star
-- name: Others at RubyGems
+- name: Other Ruby Libraries at RubyGems
   uri: https://rubygems.org/profiles/ma2ge
-- name: Others at Hex(Elixir Libraries)
+- name: Other Elixir Libraries at Hex
   uri: https://hex.pm/users/ma2ge

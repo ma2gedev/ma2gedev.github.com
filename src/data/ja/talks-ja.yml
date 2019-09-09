@@ -1,10 +1,10 @@
-- title: OSSの歩き方 / Walking with OSS
+- title: OSSの歩き方
   year: 2019
   uri: https://speakerdeck.com/ma2gedev/walking-with-oss
   event: 
-    name: エムスリー研修資料(in-house)
+    name: エムスリー研修資料(社内向け)
   country: 🇯🇵
-- title: キーボードをカスタムしてプログラミング環境を良くした話 / Improved programming environment with customizing keybords
+- title: キーボードをカスタムしてプログラミング環境を良くした話
   year: 2018
   uri: https://speakerdeck.com/ma2gedev/walking-with-oss
   event: 
@@ -50,5 +50,5 @@
   year: 2013
   uri: https://speakerdeck.com/ma2gedev/try-rails-4
   event: 
-    name: "M3 Tech Talk #1(in-house)"
+    name: "M3 Tech Talk #1(社内向け)"
   country: 🇯🇵

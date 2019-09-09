@@ -17,42 +17,7 @@ module.exports = {
       resolve: `gatsby-source-filesystem`,
       options: {
         name: `career`,
-        path: `${__dirname}/src/data/ja/career.yml`,
-      },
-    },
-    {
-      resolve: `gatsby-source-filesystem`,
-      options: {
-        name: `me`,
-        path: `${__dirname}/src/data/ja/me.yml`,
-      },
-    },
-    {
-      resolve: `gatsby-source-filesystem`,
-      options: {
-        name: `books`,
-        path: `${__dirname}/src/data/ja/books.yml`,
-      },
-    },
-    {
-      resolve: `gatsby-source-filesystem`,
-      options: {
-        name: `oss`,
-        path: `${__dirname}/src/data/ja/oss.yml`,
-      },
-    },
-    {
-      resolve: `gatsby-source-filesystem`,
-      options: {
-        name: `social`,
-        path: `${__dirname}/src/data/ja/social.yml`,
-      },
-    },
-    {
-      resolve: `gatsby-source-filesystem`,
-      options: {
-        name: `talks`,
-        path: `${__dirname}/src/data/ja/talks.yml`,
+        path: `${__dirname}/src/data/`,
       },
     },
     `gatsby-transformer-yaml`,

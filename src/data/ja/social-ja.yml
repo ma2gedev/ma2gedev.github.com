@@ -1,0 +1,18 @@
+- name: GitHub
+  account: ma2gedev
+  uri: https://github.com/ma2gedev
+- name: Twitter
+  account: ma2ge
+  uri: https://twitter.com/ma2ge
+- name: Speaker Deck
+  account: ma2gedev
+  uri: https://speakerdeck.com/ma2gedev
+- name: Medium
+  account: ma2ge
+  uri: https://medium.com/@ma2ge
+- name: LinkedIn
+  account: ma2ge
+  uri: https://www.linkedin.com/in/ma2ge
+- name: Qiita
+  account: ma2ge
+  uri: https://qiita.com/ma2ge
