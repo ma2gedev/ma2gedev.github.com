@@ -20,9 +20,15 @@ jobs:
       uses: actions/setup-node@v1
       with:
         node-version: ${{ matrix.node-version }}
-    - name: yarn install and deploy
+    - name: yarn install and build
       run: |
         yarn install
-        yarn deploy
+        yarn build
       env:
         CI: true
+    - name: deploy
+      uses: peaceiris/actions-gh-pages@v2.3.0
+      env:
+        ACTIONS_DEPLOY_KEY: ${{ secrets.ACTIONS_DEPLOY_KEY }}
+        PUBLISH_BRANCH: master
+        PUBLISH_DIR: ./public
