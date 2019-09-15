@@ -1,0 +1,24 @@
+- title: 「エムスリーテックブック#1」を技術書典6に出展します
+  uri: https://www.m3tech.blog/entry/m3techbook-01
+  language: JA
+- title: "キーボードのカスタマイズについて #builderscon 2018 で Lightning Talk してきた"
+  uri: https://medium.com/@ma2ge/%E3%82%AD%E3%83%BC%E3%83%9C%E3%83%BC%E3%83%89%E3%81%AE%E3%82%AB%E3%82%B9%E3%82%BF%E3%83%9E%E3%82%A4%E3%82%BA%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6-builderscon-2018-%E3%81%A7-lightning-talk-%E3%81%97%E3%81%A6%E3%81%8D%E3%81%9F-59bbb591b6b0
+  language: JA
+- title: フロントエンド向けの API サーバリニューアルに GraphQL を検討している話
+  uri: https://www.m3tech.blog/entry/graphql-on-spring-boot-with-kotlin
+  language: JA
+- title: Speaking at RedDotRubyConf 2017 in Singapore
+  uri: https://medium.com/@ma2ge/speaking-at-reddotrubyconf-2017-in-singapore-861ba9790203
+  language: EN
+- title: "Power Assert の内部について Elixir Meetup #1 in Drecom で発表してきた"
+  uri: https://medium.com/@ma2ge/power-assert-%E3%81%AE%E5%86%85%E9%83%A8%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6-elixir-meetup-1-in-drecom-%E3%81%A7%E7%99%BA%E8%A1%A8%E3%81%97%E3%81%A6%E3%81%8D%E3%81%9F-8f2c65a2fa8f
+  language: JA
+- title: Testing with Power Assert in Elixir projects
+  uri: https://qiita.com/ma2ge/items/29115d0afbf97a092783
+  language: EN
+- title: ChronoLogger logging is 1.5x faster than ruby’s stdlib Logger
+  uri: https://medium.com/@ma2ge/chronologger-logging-is-1-5x-faster-than-ruby-s-stdlib-logger-fc51a823f2ab
+  language: EN
+- title: Rails の rescue_from で拾えない例外を exceptions_app で処理する
+  uri: https://qiita.com/ma2ge/items/938d9f8f4839eb336318
+  language: JA

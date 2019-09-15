@@ -71,6 +71,16 @@ const IndexPage = ({ data }) => (
     })}
     </ul>
     <hr/>
+    <h2>Posts</h2>
+    <ul>
+    {data.allPostsJaYaml.edges.map(edge => {
+      const post = edge.node
+      return <li>
+        [{post.language}] <a href={post.uri}>{post.title}</a>
+      </li>
+    })}
+    </ul>
+    <hr/>
     <h2>Links</h2>
     <ul>
     {data.allSocialJaYaml.edges.map(edge => {
@@ -147,6 +157,15 @@ query {
           name
           uri
         }
+      }
+    }
+  }
+  allPostsJaYaml {
+    edges {
+      node {
+        title
+        uri
+        language
       }
     }
   }

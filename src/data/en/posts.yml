@@ -1,0 +1,15 @@
+- title: Speaking at RedDotRubyConf 2017 in Singapore
+  uri: https://medium.com/@ma2ge/speaking-at-reddotrubyconf-2017-in-singapore-861ba9790203
+  language: EN
+- title: 「エムスリーテックブック#1」を技術書典6に出展します
+  uri: https://www.m3tech.blog/entry/m3techbook-01
+  language: JA
+- title: Testing with Power Assert in Elixir projects
+  uri: https://qiita.com/ma2ge/items/29115d0afbf97a092783
+  language: EN
+- title: フロントエンド向けの API サーバリニューアルに GraphQL を検討している話
+  uri: https://www.m3tech.blog/entry/graphql-on-spring-boot-with-kotlin
+  language: JA
+- title: ChronoLogger logging is 1.5x faster than ruby’s stdlib Logger
+  uri: https://medium.com/@ma2ge/chronologger-logging-is-1-5x-faster-than-ruby-s-stdlib-logger-fc51a823f2ab
+  language: EN
