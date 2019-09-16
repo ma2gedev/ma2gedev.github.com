@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/ma2ge
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://ma2ge.dev
+  * I am ma2ge (https://keybase.io/ma2ge) on keybase.
+  * I have a public key ASAsFfLCgqIXqkyp3oeC82M_-dpoahsJzzsEzFchM55MMAo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01209d6efc31584ea3622408be70f2363c40938a7c73a897b25f93eaa6fa2fed83280a",
+      "host": "keybase.io",
+      "kid": "01202c15f2c282a217aa4ca9de8782f3633ff9da686a1b09cf3b04cc5721339e4c300a",
+      "uid": "f04459fd1a70e9346faa7f3ed3488d19",
+      "username": "ma2ge"
+    },
+    "merkle_root": {
+      "ctime": 1568638987,
+      "hash": "a3c9658d770d2fb05a70f39db930289453d4ab6f9bf8d177a5603aa5d673057e53b1f74b91dd972f2141e9a2f932c30c7337d19c6785eebc62c70778953c7255",
+      "hash_meta": "1d87d4c48beaec447ac65d120a0bb6ab6d14ed4addf39776dd015b92e933a506",
+      "seqno": 7462447
+    },
+    "service": {
+      "entropy": "7ydBU3cn0Rg339QIgZym64Nh",
+      "hostname": "ma2ge.dev",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "4.4.2"
+  },
+  "ctime": 1568638993,
+  "expire_in": 504576000,
+  "prev": "58791df90800f11680cb00d7ce390a2947340a003e286582cb02f2c4064f2593",
+  "seqno": 18,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgLBXywoKiF6pMqd6HgvNjP/naaGobCc87BMxXITOeTDAKp3BheWxvYWTESpcCEsQgWHkd+QgA8RaAywDXzjkKKUc0CgA+KGWCywLyxAZPJZPEILqgoda3RdwkGrItmN4f/lBhWT/DapkefxBzrzeYUnpeAgHCo3NpZ8RAr1JIj3ryCqTzWv+d/KRKzyscvX+2M8F2LGmBEu3MFPdaSw4KJOnlc3hPXFnhY1l1obVCt3M3EwXc933j0hk6DahzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIP4/qPcSBzFmM8NwUF62I+ml5bOOjZhMRUmKA7CFrHQzo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/ma2ge
+
+==================================================================
