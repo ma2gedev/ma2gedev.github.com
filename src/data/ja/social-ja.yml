@@ -7,6 +7,9 @@
 - name: Speaker Deck
   account: ma2gedev
   uri: https://speakerdeck.com/ma2gedev
+- name: Keybase
+  account: ma2ge
+  uri: https://keybase.io/ma2ge
 - name: Medium
   account: ma2ge
   uri: https://medium.com/@ma2ge
